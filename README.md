@@ -1,0 +1,2 @@
+# ITSCHOOL-EXERCITII
+Tema Palindrom
